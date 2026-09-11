@@ -28,15 +28,15 @@
 
 - **GitHub 账号**：如果还没有，请前往 github.com 免费注册一个。
 - **VSCode 编辑器**：前往 code.visualstudio.com  或者 应用商店  下载并安装 Visual Studio Code。
-   ![截图](images/image1.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image1.png)
 - **Python 环境**：前往 python.org 下载并安装 Python，不知道自己的电脑应该下载哪个型号就去问AI。安装时务必勾选 “Add Python to PATH”
-   ![截图](images/image2.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image2.png)
 - **Git 工具**：通常 VSCode 会自带 Git，若未安装，请前往 git-scm.com 下载安装。
-   ![截图](images/image3.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image3.png)
 
 不知道自己的电脑应该下载哪个型号就去问AI
 
-![截图](images/image4.png)
+![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image4.png)
 
 ## 四、任务详情
 
@@ -52,9 +52,9 @@
 
 - **操作步骤**：
 1. 登录 GitHub，点击页面顶部的搜索框。输入提供的项目名称或关键词，例如RiRi-Zinnia/A-beginner-s-guide-to-GitHub
-   ![截图](images/image5.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image5.png)
 1. 在搜索结果列表中，点击正确的仓库链接进入
-   ![截图](images/image6.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image6.png)
 
 ### 任务二：Star收藏项目
 
@@ -64,7 +64,7 @@
   1. 在项目仓库主页的右上角，找到 “Star” 按钮。
   1. 点击该按钮，按钮文字会变为 “Unstar”，表示收藏成功。
 - **小贴士/注意事项**：Star 类似于其他平台的“点赞”或“收藏”，是你参与开源社区的第一步互动。
-   ![截图](images/image7.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image7.png)
 
 ### 任务三：Fork复刻项目
 
@@ -72,11 +72,11 @@
 - **完成标准**：你的账号下出现了一个同名仓库，且页面显示 “forked from 教师用户名/项目名”。
 - **操作步骤**：
   1. 在项目仓库主页右上角，点击 “Fork” 按钮。
-   ![截图](images/image8.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image8.png)
   1. 在弹出的对话框中，选择你的个人账号作为 Fork 的目标。
-   ![截图](images/image9.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image9.png)
   1. 等待几秒钟，页面会自动跳转到你账号下的新仓库。
-   ![截图](images/image10.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image10.png)
 - **小贴士/注意事项**：Fork 和 Download 有本质区别，请参考下表：
 
 | 对比项 | Fork | Download ZIP |
@@ -93,24 +93,24 @@
 - **完成标准**：本地文件夹中包含项目的源代码文件。
 - **操作步骤**：
   1. 在你 Fork 的仓库主页，点击绿色的 “Code” 按钮。
-   ![截图](images/image11.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image11.png)
   1. 在下拉菜单中选择 “Download ZIP”。
-   ![截图](images/image12.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image12.png)
   1. 下载完成后，将 ZIP 文件解压到你习惯存放代码的文件夹中。
-   ![截图](images/image13.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image13.png)
 - **小贴士/注意事项**：解压后的文件夹可能包含一层同名目录，建议将内部文件直接移出，保持目录结构整洁。
 
 ### 任务五：用VSCode打开项目并运行代码
 
 - **操作步骤**：
   1. 打开 VSCode，点击菜单栏 File → Open Folder，选择刚才解压的项目文件夹。
-   ![截图](images/image14.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image14.png)
   1. 在左侧资源管理器中找到源代码文件（如 hello.py）。
-   ![截图](images/image15.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image15.png)
   1. 右键点击文件，选择 “Run Python File in Terminal”（或在终端中输入 python hello.py）。
-   ![截图](images/image16.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image16.png)
   1. 观察底部终端的输出结果。
-   ![截图](images/image17.png)
+   ![截图](https://fastly.jsdelivr.net/gh/RiRi-Zinnia/A-beginner-s-guide-to-GitHub@main/images/image17.png)
 - **小贴士/注意事项**：如果提示找不到 Python，请检查是否在安装时勾选了 “Add Python to PATH”，或重启 VSCode。
 
 ### 五、恭喜你已经成功实现github的基础用法啦，后续教学你将学到：修改代码并提交到个人GitHub、创建自己的仓库并上传代码、创建代码的分支并Commit和Push，关注主播不迷路，只为做真正零基础小白的教学！
